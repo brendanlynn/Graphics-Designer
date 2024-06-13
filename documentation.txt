@@ -1,0 +1,19 @@
+﻿drawarc <x> <y> <width> <height> <startAngle> <sweepAngle> <lineWidth> <color>
+drawbezier <x0> <y0> <x1> <y1> ... <x3> <y3> <lineWidth> <color>
+drawbeziers <x0> <y0> <x1> <y1> ... <xN> <yN> <lineWidth> <color>
+drawclosedcurve <x0> <y0> <x1> <y1> ... <xN> <yN> <lineWidth> <color>
+fillclosedcurve <x0> <y0> <x1> <y1> ... <xN> <yN> <color>
+drawcurve <x0> <y0> <x1> <y1> ... <xN> <yN> <lineWidth> <color>
+drawellipse <x> <y> <width> <height> <lineWidth> <color>
+fillellipse <x> <y> <width> <height> <color>
+drawimage <filePath> <x> <y>
+drawimage <filePath> <x> <y> <width> <height>
+drawimage <filePath> <x0> <y0> <x1> <y1> <x2> <y2>
+drawline <x0> <y0> <x1> <y1> <lineWidth> <color>
+drawlines <x0> <y0> <x1> <y1> ... <xN> <yN> <lineWidth> <color>
+drawpie <x> <y> <width> <height> <startAngle> <sweepAngle> <lineWidth> <color>
+fillpie <x> <y> <width> <height> <startAngle> <sweepAngle> <color>
+drawpolygon <x0> <y0> <x1> <y1> ... <xN> <yN> <lineWidth> <color>
+fillpolygon <x0> <y0> <x1> <y1> ... <xN> <yN> <color>
+drawrectangle <x> <y> <width> <height> <lineWidth> <color>
+fillrectangle <x> <y> <width> <height> <color>
